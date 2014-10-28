@@ -3,7 +3,7 @@ IMDb-Info-Grabber
 
 IMDb-Info-Grabber for forum
 **************************************************
-https://vbwarez.net/
+
 
 ***********************************************
 
